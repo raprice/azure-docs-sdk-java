@@ -1,12 +1,12 @@
 ---
-ms.service: loadtest
-ms.topic: reference
-title: Azure Load Test SDK for Java
 ms.devlang: java
-author: joshfree
-ms.data: 09/15/2022
-description: Reference for Azure Load Test SDK for Java
+ms.data: 09/16/2022
+ms.service: loadtest
+title: Azure Load Test SDK for Java
+ms.topic: reference
 ms.author: jfree
+author: joshfree
+description: Reference for Azure Load Test SDK for Java
 ---
 # Azure Load Test SDK for Java - preview
 
